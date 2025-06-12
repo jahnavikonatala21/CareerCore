@@ -3,3 +3,4 @@ PyPDF2
 spacy
 sentence-transformers
 numpy
+en-core-web-lg
