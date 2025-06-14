@@ -1,6 +1,6 @@
-streamlit
-PyPDF2
-spacy==3.7.2
-sentence-transformers
-numpy
-https://github.com/explosion/spacy-models/releases/download/en_core_web_sm-3.7.1/en_core_web_sm-3.7.1-py3-none-any.whl
+streamlit==1.35.0
+PyPDF2==3.0.1
+spacy==3.7.4
+sentence-transformers==2.6.1
+numpy==1.26.4
+torch>=1.13.1,<2.2
